@@ -1,0 +1,12 @@
+name = "chita-bridge-panel"
+main = "src/index.js"
+compatibility_date = "2024-01-01"
+# node_compat = true
+workers_dev = true
+
+[vars]
+# PROXYIP = "211.230.110.231:50008"
+UUID = "e8d26451-b8f4-4a41-893f-c301c27715f3"
+# TROJAN_PASSWORD = "your-trojan-password"  # Optional: If not set, UUID will be used as password
+# SOCKS5 = "127.0.0.1:1080"
+# SOCKS5_RELAY = "true"
